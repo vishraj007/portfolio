@@ -62,10 +62,8 @@ export default function About() {
                                     shipping production-ready, AI-powered web apps.
                                 </p>
                                 <p>
-                                    I build with <span className="text-cyan-400">Next.js</span>,{" "}
-                                    <span className="text-cyan-400">Node.js</span>,{" "}
-                                    <span className="text-cyan-400">PostgreSQL</span> &amp; cloud infra.
-                                    250+ DSA problems solved. 1st place at TetherX Hackathon, VIT Chennai.
+                                 250+ DSA problems solved. 🥇 1st place at TetherX Hackathon, VIT Chennai — 
+I build fast under pressure and ship things that actually work.
                                 </p>
                                 <p>
                                     Strong foundations in DSA, OS, Networks, Databases &amp; OOP —
