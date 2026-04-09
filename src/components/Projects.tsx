@@ -50,7 +50,7 @@ const projects = [
             "Real-time cross-department messaging",
             "Razorpay payments built-in",
         ],
-        live: "mediflow-fina-1wohh7yaz-vishraj007s-projects.vercel.app",
+        live: "https://mediflow007.vercel.app/",
         github: "https://github.com/vishraj007/mediflow-fina-",
         gradient: "from-cyan-600 via-teal-600 to-emerald-600",
         glowColor: "rgba(6, 182, 212, 0.15)",
