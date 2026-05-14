@@ -7,24 +7,24 @@ import { SiGithub } from "react-icons/si";
 
 const projects = [
     {
-        title: "MockMate",
-        subtitle: "AI-Powered Mock Interview & Quiz Platform",
-        description:
-            "AI-driven interview prep platform — paste a job description, get tailored technical questions, simulate webcam interviews with real-time speech-to-text, and receive Gemini AI-powered scoring with actionable feedback.",
-        tech: [
-            "Next.js",
-            "PostgreSQL",
-            "Drizzle ORM",
-            "Gemini AI",
-            "Clerk Auth",
-            "Web Speech API",
-        ],
-        highlights: [
-            "Personalized questions from any job description",
-            "Live webcam interview with speech-to-text",
-            "AI-scored responses with improvement tips",
-           
-        ],
+       title: "MockMate",
+subtitle: "AI-Powered Mock Interview & Quiz Platform",
+description:
+    "AI-driven interview preparation platform that generates personalized interview questions and quizzes from job descriptions, enables AI voice-based mock interviews with real-time speech interaction, and provides automated feedback with performance evaluation.",
+tech: [
+    "Next.js",
+    "PostgreSQL",
+    "Drizzle ORM",
+    "Groq LLM",
+    "Sarvam AI",
+    "Clerk Auth",
+],
+highlights: [
+    "Personalized interview questions and quizzes from job descriptions",
+    "AI voice interviews using Sarvam Bulbul:v3 TTS and STT",
+    "Dynamic follow-up questions based on candidate responses",
+    "Automated evaluation with scoring and feedback",
+],
         live: "https://mock-mate-52o4.vercel.app/",
         github:" https://github.com/vishraj007/mock-mate",
         gradient: "from-purple-600 via-violet-600 to-indigo-600",
